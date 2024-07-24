@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605369961682",
+    "firebase_url": "https://heart-desease-default-rtdb.firebaseio.com",
+    "project_id": "heart-desease",
+    "storage_bucket": "heart-desease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605369961682:android:b06df657adff3726bb310b",
+        "android_client_info": {
+          "package_name": "com.example.smartmedic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605369961682-283mdkfpe2iqmp9kop2ufkm6nh38o5th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglJQVlYtHmnhJrfJH2VdxqT5KcAgyTNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605369961682-283mdkfpe2iqmp9kop2ufkm6nh38o5th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
